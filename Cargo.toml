@@ -5,6 +5,7 @@ authors = ["Antonin Carette <antonin@derniercri.io>", "Jean-Serge Monbailly <jea
 description = "A simple and fast download accelerator"
 repository = "https://github.com/derniercri/snatch"
 license = "MIT"
+edition = "2024"
 
 [lib]
 name = "libsnatch"
